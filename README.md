@@ -15,7 +15,7 @@ Proceso de instalación:
 
 En Git Bash
 
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/catafloress/Trabajo-Practico-2.git>
 cd mi_proyecto
 python -m venv venv
 source venv/Scripts/activate
