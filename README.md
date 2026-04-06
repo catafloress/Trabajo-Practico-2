@@ -25,5 +25,6 @@ Modo de ejecución:
 En Git Bash:   jupyter notebook
 
 Abrir:  notebooks/Ejercicio10.ipynb
+        notebooks_ej1_9/Ejercicio1.ipynb
 
 y ejecutar todas las celdas.
